@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20 sept. 2021, 18:07:14
+    Author     : seydinaoumar.diarra
+*/
+
+body{
+	margin: 10% 20% 20% 35%;
+}
+.linear-gradient {
+  background: linear-gradient(orange, white);
+}
+
+.content{
+	background-color: white;
+	width: 80%;
+	height: 230%;
+	box-shadow: 10px 10px 5px grey;
+}
+
+.marge{
+	margin-left: 15%;
+}
+
+input{
+  padding: 6px 50px;
+  margin: 8px 0px;
+  box-sizing: border-box;
+  border: 2px solid grey;
+  border-radius: 4px;
+}
+
+.button{
+	background-color: orange;
+	color: white;
+}
+
+.button-noir{
+	background-color: black;
+	color: white;
+}
+
+label{
+	font-size: 20px;
+}
+
+img{
+	padding: 6px 200px;
+	border-style: solid;
+	border-color: orange;
+	border-width: 5px;
+}
+
+.valide:valid{
+	border-color: green;
+}
